@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'HYQuest Technologies',
+    description: 'Private store for Kasm supported workspaces.',
+    icon: 'https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/y0hevvdjp1b5mimcbeuv',
+    listUrl: 'https://hyim28.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/hyim28/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
