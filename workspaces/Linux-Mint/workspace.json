@@ -2,7 +2,7 @@
   "description": "Linux Mint is an operating system for desktop and laptop computers.",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "logo_linux_mint_22361.png",
-  "name": "dockerscripts/linuxmint:lmde",
+  "name": "linuxmintd/mint20.2-amd64:latest",
   "cores": 2,
   "memory": 4096,
   "gpu_count": 0,
