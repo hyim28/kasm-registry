@@ -6,7 +6,7 @@
   "cores": 2,
   "memory": 4096,
   "gpu_count": 0,
-  "uncompressed_size_mb": 12500
+  "uncompressed_size_mb": 12500,
   "cpu_allocation_method": "Inherit",
   "run_config": {
     "hostname": "kasm-mint"
